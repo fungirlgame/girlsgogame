@@ -1,11 +1,21 @@
-# kizi
-kizi games source code
-Tumbleseed was a difficult, tricky game. Outlast 2 was an uphill march through dangerous enemies. Recently, both have gotten easier thanks to patches and tweaks. Many games have had their difficulty reduced after release. While this makes them accessible to more players, it also raises questions.
+New Barbie Introduced to interest Women in the <a href="http://www.yaleschoolpa.com/about/curriculum/steam/">STEM Areas</a>
 
-Last week, puzzle <a href="http://kizifan.com/">kizi</a> game Tumbleseed expanded with a PC patch that added themed maps avoiding the game’s difficult randomization and tweaked player abilities. But the practice of post-release patches altering game difficulty isn’t new. Last year, indie hit Hyper Light Drifter went through various changes that made the game less difficult. The game’s tricky combat was made more bearable through the addition of invulnerability frames that protected players as they dashed around. Developer Heart Machine also added faster healing. Later, after player feedback, Hyper Light Drifter also got an easier “Newcomer Mode” that granted extra health and made enemy attacks weaker
+Barbie aims to inspire women and instruct real-world programming abilities
 
-Prey released a day one patch that scaled enemy statistics and changed enemy abilities to make them more difficulty-appropriate. The patch also changed player abilities to make exploration easier. Horror game Outlast 2 received a patch nearly two weeks after release rebalancing the difficulty, and Has Been Heroes had abilities and enemies changed to fix the game’s balance after launch.
+The new Barbie intends to encourage girls' interest in areas of science, engineering, technology and mathematics, in which only 24 percent of jobs are held by women, as stated by the U.S. Department of Commerce.
 
-With the option to change games after release can help them better suit a range of players, these patches also have ramifications. Sites like Kotaku often receive review copies of games far in advance of these patches, meaning reviews might reflect a version of a game that’s different than what players experience. Post-release patches in response to player feedback change a game over time, sometimes radically. Is the ‘definitive’ Hyper Light Drifter the punishing original version or the version contained in “Newcomer Mode”? How much should developers be expected to alter in response to player feedback and for how long?
+Mattel, the company that produces Barbie, composed in a release this doll will"shine a light in an underrepresented career area for ladies."
 
-The ‘<a href="https://www.youtube.com/channel/UCh4IvxaNzPuR3jVvUZVVmpg">fun kids games</a>’ approach can be good for players, who can experience versions of games that can be less frustrating or punishing. This also means players experience different versions of a game depending on their ability to download patches or when they play. A game’s constant changes make it more difficult for players to bond over shared experiences, since a game might be drastically different from one player’s experience to the next. At the same time, a game that turned off potential players who heard it was too difficult might see new life with tweaks and patches.
+Let us inspire another generation to view themselves in professions underrepresented by women. By encouraging more women to research STEM using Robotics Engineer #Barbie, we show them they could be anything.
+
+The STEM Barbie not just lets women envision themselves as a robotics engineer, but it teaches them the skills they will want to become one.
+
+Contained in the launch are just six free Barbie-inspired coding matches, which the Mattel <a href="http://www.anobii.com/groups/01920ef08181baf2ae">company</a> made in partnership with Tynker, the instructional computer system.
+
+"By playing Robotics Engineer Barbie offline and on, we're giving women a brand new platform for drama within their imaginary world and teaching them important skills to their actual world," explained Lisa McKnight, general manager and senior vice president of Barbie.
+
+The programming games are thought to help build problem-solving abilities while teaching coding principles.
+
+"It is essential that all young students have a chance to learn more about the possibilities out there in STEM areas, and Tynker's Barbie programming expertise is a valuable tool to introduce children of all ages to those theories while building their communicating abilities," said Krishna Vedati, co-founder and CEO of Tynker.
+
+But, Barbie isn't any stranger at the STEM areas. Since the 1950s, the iconic doll was observed in roles of an astronaut, scientist, <a href="http://girlsgogogames.biz/">video game</a> programmer and computer programmer. 
