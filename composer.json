@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "fungirlgame/girlsgogame",
+    "description": "Girls Games Framework.",
+    "keywords": ["framework", "girls games"],
     "license": "MIT",
     "type": "project",
     "require": {
